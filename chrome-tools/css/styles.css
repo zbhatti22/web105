@@ -1,0 +1,51 @@
+body{
+    background: ivory;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family:cursive;
+    color:#3eadd5;
+    text-align:center
+
+
+}
+
+
+img{
+     width:300px;
+    height:300px;
+    margin:10px auto;
+    border:darkgreen 6px solid;
+    border-radius:100%;
+
+}
+
+figure{
+    border:2px solid cornflowerblue;
+    width 350px;
+    height 350px;
+    padding:2px;
+    border-radius: 100%;
+    margin:auto;
+    
+}
+
+ol{ color:plum
+   
+}
+
+ul{
+    color:#4bcc91;
+    list-style-type:disc;
+}
+
+dt{
+    color:#83288e;
+    font-weight:bold;
+}
+
+dd{
+    color:#0c00ff;
+    font-weight:bolder
+}

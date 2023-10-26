@@ -1,0 +1,14 @@
+body {
+    background: black;
+    color: ivory;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+iframe {
+    width: 80%;
+    min-height: 400px;
+    display: block;
+    margin: 10px auto;
+    border: 3px solid gold;
+}
