@@ -19,7 +19,7 @@
 			"host": "ftp.zbhatti.mccweb.net",
 			"port": 21,
 			"user": "zbhatti",
-			"password": "zb2004!2",
+			"password": "RENAISSANCE",
 			"dir": "/public_html/web105",
 			"transferDataType": "binary"
 		},
@@ -29,7 +29,7 @@
 			"host": "ftp.zbhatti.mccweb.net",
 			"port": 22,
 			"user": "zbhatti",
-			"password": "zb2004!2",
+			"password": "RENAISSANCE",
 			"dir": "/public_html/web105",
 			"privateKey": null,
 			"passphrase": null
