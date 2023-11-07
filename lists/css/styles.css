@@ -1,0 +1,28 @@
+body {
+    background: rgb(10, 1, 43);
+    color: rgb(224, 224, 205);
+    font-size: large;
+    line-height: 1.5;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+ul {
+    list-style-type: "\2605";
+    /* Unicode for star */
+}
+
+ul ul {
+    list-style-type: "\26F5";
+    /* sailboat */
+}
+
+
+ol ol {
+    color: rgb(240, 243, 170);
+}
+    

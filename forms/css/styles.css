@@ -1,0 +1,65 @@
+/* Things that will be variables */
+
+/* Colors */
+:root {
+    --bright: #f23040;
+    --muted: #525df2;
+    --dark: #1a5300;
+    --light: #f2ee80;
+    --intense: #f27f3d;
+    --background: #000000;
+    /* You need to define --background */
+    --type:
+    'Jacques Francois', serif;
+    --headings:
+    'Lexend Deca', sans-serif;
+}
+
+/* Fonts */
+
+
+body {
+    background: var(--background);
+    color: var(--light);
+    font-size: x-large;
+    font-family: var(--type);
+}
+
+h1,
+h2,
+h3 {
+    color: var(--bright);
+    font-family: var(--headings);
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    background: var(--dark);
+    padding: 10px 15px;
+    margin: 20px;
+    text-decoration: none;
+    color: var(--intense);
+    border: 2px solid var(--dark);
+    border-radius: 20px;
+}
+
+nav a:hover {
+    color: var(--dark);
+    background: var(--intense);
+}
+
+img {
+    margin: 10px auto;
+    width: 50%;
+    display: block;
+}
+
+.container {
+    padding: 20px;
+    width: 80%;
+    margin: 10px auto;
+    border: 2px solid var(--bright);
+}
