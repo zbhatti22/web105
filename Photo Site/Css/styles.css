@@ -27,6 +27,15 @@ h3 {
     padding: 20px;
     margin: auto;
 }
+
+.mariah-images {
+    display: block;
+    width: 25%;
+    padding: 20px;
+    margin: auto;
+}
+
+
 nav {
     text-align: center;
     font-size: x-large;
