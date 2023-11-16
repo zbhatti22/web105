@@ -21,6 +21,12 @@ h3 {
     margin: auto;
 }
 
+.nicki-images {
+    display: block;
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+}
 nav {
     text-align: center;
     font-size: x-large;
@@ -129,7 +135,7 @@ footer {
 
 .grid-container {
     display: grid;
-    grid-template-columns: auto auto auto auto auto;
+    grid-template-columns: auto auto auto auto auto auto;
     gap: 10px;
     background-color: black;
     padding: 10px;
